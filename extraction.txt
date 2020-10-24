@@ -1,3 +1,5 @@
+// me?fields=id,name,about,category,emails,engagement,country_page_likes,fan_count,link,talking_about_count,blocked{username},likes.limit(5),rating_count,ratings.limit(5),posts.limit(5),visitor_posts.limit(5),tagged.limit(5)
+
 {
   "id": "668902636916465",
   "name": "Studio 50-50",
