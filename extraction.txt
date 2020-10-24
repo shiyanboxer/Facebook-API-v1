@@ -1,0 +1,72 @@
+{
+  "id": "668902636916465",
+  "name": "Studio 50-50",
+  "about": "We are a digital media company helping businesses make the most of the digital era through our photography and web development services.",
+  "category": "Marketing Agency",
+  "emails": [
+    "studio5050contact@gmail.com"
+  ],
+  "engagement": {
+    "count": 35,
+    "social_sentence": "35 people like this."
+  },
+  "country_page_likes": 35,
+  "fan_count": 35,
+  "link": "https://www.facebook.com/668902636916465",
+  "talking_about_count": 0,
+  "rating_count": 1,
+  "ratings": {
+    "data": [
+      {
+        "created_time": "2020-01-19T21:19:10+0000",
+        "recommendation_type": "positive",
+        "review_text": "Amazing shots! Highly recommend!"
+      }
+    ]
+  },
+  "posts": {
+    "data": [
+      {
+        "created_time": "2020-07-04T17:27:45+0000",
+        "message": "Are you interested in volunteering but don't know where to start? Check out the Kindness Club who's connecting non-profit organizations with volunteers in the community. They're operating major cities across Canada with over 2000 members and growing.
+
+https://www.meetup.com/The-Kindness-Club/
+
+WEBSITE COMING SOON!
+
+#startup #volunteering #webapplication #socialenterprise #community #react #webdevelopment #frontend #webdesign #webapp #remote #workingfromhome #ottawa #toronto #vancouver",
+        "id": "668902636916465_983056598834399"
+      },
+      {
+        "created_time": "2020-06-30T20:37:52+0000",
+        "message": "NYC",
+        "id": "668902636916465_980301339109925"
+      },
+      {
+        "created_time": "2020-05-25T21:23:27+0000",
+        "message": "Studio 50-50, a digital media company working out of Kingston, Ottawa, and Toronto. We provide professional photography and web development services to businesses.
+
+We have versatile areas of expertise in Interior, Food & Drink, and Product photography as well as significant experience building client eCommerce and Multipage websites. Please visit our website at [www.studio50-50.com](https://www.studio50-50.com/) where you can view some of our most recent work. We can be contacted directly by email or phone to discuss your photography and web development needs.",
+        "id": "668902636916465_954932994980093"
+      },
+      {
+        "created_time": "2020-05-12T00:52:45+0000",
+        "message": "We’re excited to announce that Studio 50-50's new website is up and running. Feel free to check out our website here: https://studio50-50.com/ #website #webdesign #marketing #photography",
+        "id": "668902636916465_945491919257534"
+      },
+      {
+        "created_time": "2020-05-12T00:28:47+0000",
+        "message": "Our new website is up and running. 
+Link in bio",
+        "id": "668902636916465_945481645925228"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "QVFIUldrVGtwSXUzN1M2MC1kZAVBwdFduV1ZAaaEltbWkzSmZAuRUpnVmFKc0p4SHR4Nk04ZAU9aS19TdWpBYmZAXenlva2hEb2hHQVVQODlUQWJ2WnlVOXlBNWFkSktsVThYOThQUHg5d1RCNzhTS0JZAUmFfUW5LbTNCMXRkVHVPMHZAydjN1",
+        "after": "QVFIUkVSNDVDcEQxSF8zNkpQd1hYTXBPaDM5bUNZAQmlUZATA0a25ja092bjNqR0QyazRnRXJrSzhyREs5YXpTRzJRcjlWWDJYLTctSUtzTm5xNmtTdmxYU3FDb2pETDdXMUVtZA19zX0E1NzJEZAk96eTMtc29kMTNod19HVjZANNEtoeXha"
+      },
+      "next": "https://graph.facebook.com/v8.0/668902636916465/posts?access_token=EAAGXikZCCy0sBAKRozuPMQ3CpKJiroxzxwftTilAoB3ux4NTLJCpj4rqFnKRxYHi6Odynvs83VZA9ucq4uUzUGepI7ZCChBu4y5T9Wi7wvHUXeZA8G043OZAqQkW7b48666PzQRkdrqJhXQCWgT65xlRZBaMvoJ4mOH3JmLlelaGobVd7ER6u8bD2lUNj5ytz45LSaTofiggZDZD&pretty=0&limit=5&after=QVFIUkVSNDVDcEQxSF8zNkpQd1hYTXBPaDM5bUNZAQmlUZATA0a25ja092bjNqR0QyazRnRXJrSzhyREs5YXpTRzJRcjlWWDJYLTctSUtzTm5xNmtTdmxYU3FDb2pETDdXMUVtZA19zX0E1NzJEZAk96eTMtc29kMTNod19HVjZANNEtoeXha"
+    }
+  }
+}
