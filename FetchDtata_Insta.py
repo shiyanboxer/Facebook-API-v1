@@ -16,17 +16,16 @@ r = requests.get(URL)  # Make a GET request to the given URL
 data.append(r.json())  # Extract data in the json form and append it into the list named "data"
 
 if 'Error' in data[0].keys() or 'error' in data[0].keys() :
-    print('Error Occured!')
+    print('Error Ocurred!')
     print(data[0]['error']['message'])
     sys.exit(0)
-
 
 # Make request for 50 times and made above one request so total 51 requests
 for i in range(50):
     try:
         # time.sleep(1) # to give delay of 1 sec.
         # print(i+1) # to know something is happening
-        temp_url = data[0]['paging']['next']  # extract linnk of next page
+        temp_url = data[0]['paging']['next']  # extract link of next page
         temp_data = requests.get(temp_url).json() # get data of the page and again append into the list name "data"
         # print(temp_data.keys())
         if 'Error' in data[0].keys() or 'error' in data[0].keys():
@@ -35,7 +34,7 @@ for i in range(50):
         data.append(temp_data)
     except Exception as e:
         print('ERROR:', e)
-        if 'pagging' in e or 'data' in e:
+        if 'paging' in e or 'data' in e:
             break
 
 count = 1 # for indexing
