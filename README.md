@@ -17,3 +17,4 @@
 2. Make a get request to the url using the access token 
 3. Extract the data in json form and append to data array
 4. Write the data array contents to the csv file
+5. Graph the positive, negative, and neutral reviews
