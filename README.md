@@ -20,3 +20,4 @@
 3. Extract the data in json form and append to data array
 4. Write the data array contents to the csv file
 5. Graph the positive, negative, and neutral reviews
+6. Create Flask API and Front End to visualize sentiment
