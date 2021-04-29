@@ -3,11 +3,11 @@
 ![Results](https://github.com/shiyanboxer/Facebook-API/blob/main/Screenshot%202020-11-03%20124459.jpg)
 
 ## Set Up Environment
-1. conda create -n fbenv python=3.7 requests
-2. conda activate fbenv
-3. conda install requests
-4. pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
-5. Alterative C:\Users\shiya\Anaconda3\envs\fbenv\python -m pip install <package-name>
+1. conda create -n fbenv python=3.7 request
+3. conda activate fbenv
+4. conda install requests
+5. pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
+6. Alterative C:\Users\shiya\Anaconda3\envs\fbenv\python -m pip install <package-name>
 
 ## Facebook API Graph Explore
 1. Create app
