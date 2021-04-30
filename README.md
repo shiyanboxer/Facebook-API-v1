@@ -14,6 +14,7 @@
 2. Generate access token - copy and paste into code
 3. Request me?fields=ratings.limit(10)
 
+
 ## Program 
 1. Import facebook and request module
 2. Make a get request to the url using the access token 
